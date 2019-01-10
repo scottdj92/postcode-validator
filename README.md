@@ -9,13 +9,13 @@ Node.js module for parsing and validating postcodes. Country specific validation
 ## Installation
 
 ```javascript
-npm install postcode-validator
+npm install ts-postcode-validator
 ```
 
 ## Usage (ES5)
 
 ```javascript
-var postcode = require('postcode-validator');
+var postcode = require('ts-postcode-validator');
 postcode.validate('W85TT', 'UK'); // returns true
 postcode.validate('1234567', 'UK'); // returns false
 

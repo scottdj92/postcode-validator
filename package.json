@@ -1,9 +1,9 @@
 {
   "name": "ts-postcode-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a TS fork of postcode-validator",
   "main": "lib/index.js",
-  "repository": "git@github.com:scottdj92/postcode-validator.git",
+  "repository": "git@github.com:scottdj92/ts-postcode-validator.git",
   "author": "Scott Jones <scottdj92@gmail.com>",
   "license": "MIT",
   "scripts": {
